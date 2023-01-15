@@ -665,7 +665,6 @@ footer{
 /* ======================================== */
 @media(max-width: 768px){
     .mainTestimonial{
-        
         margin: 0;
         height: 450px;
     }
@@ -686,13 +685,7 @@ footer{
         margin-top: 10px;
     }
 
-
     /* footer desing responsive  */
-
-
-
-
-
 .mainFooter{
     display: block;
     margin: 50px 100px;
@@ -707,12 +700,6 @@ footer{
     padding-bottom: 20px;
 }
 
-
     /* footer desing responsive  */
-
-
-
-
-
 
 }
